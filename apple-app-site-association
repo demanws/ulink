@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "THAGL5XP37.com.gradient.test",
+            "paths": ["*"]
+        }]
+    }
+}
